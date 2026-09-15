@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <h2>Hi 👋, I'm [ТВОЕ_ИМЯ]</h2>
+  <h2>Hi 👋, I'm [Altemir]</h2>
   <p><b>Computational Architect & Developer</b></p>
   <p><i>"Translating coffee and abstract math into executable realities."</i></p>
 </div>
@@ -34,13 +34,11 @@
 <div align="center">
   <h3>🤝 Connect</h3>
   <!-- Строгие черно-белые бейджи -->
-  <a href="https://github.com/ТВОЙ_НИК">
+  <a href="https://github.com/WVDYC">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ТВОЯ_ПОЧТА@gmail.com">
+  <a href="mailto:altemirzhilkibaev@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -56,16 +54,14 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <!-- Прозрачные карточки статистики (сливаются с темным фоном гитхаба) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a3a3a3" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WVDYC&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WVDYC&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a3a3a3" height="195" />
 </div>
 
 <br>
 
 <div align="center">
   <h3>📈 Activity Graph</h3>
-  <!-- Тот самый график коммитов внизу страницы -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&bg_color=00000000&color=a3a3a3&line=3b82f6&point=3b82f6&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WVDYC&bg_color=00000000&color=a3a3a3&line=3b82f6&point=3b82f6&hide_border=true" width="100%" />
 </div><img width="736" height="751" alt="hands" src="https://github.com/user-attachments/assets/eb4598c5-9028-4022-9769-4527cdd33196" />
 <img width="736" height="751" alt="hands" src="https://github.com/user-attachments/assets/5eae9e5f-522a-4048-b4cb-f5b27fbc45dc" />
