@@ -52,8 +52,6 @@
   - 🔍 Fascinated by distributed systems, concurrency, and real-time networking
 
   > *«The calendar loses its precious components. The remaining months gather to mourn...»*
-
-    </td>
   </tr>
 </table>
 
@@ -69,25 +67,7 @@
 
 ---
 
-### 🚀 Top Projects `(built to avoid manual labor)`
 
-<table>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>
-          <b><a href="https://github.com/WVDYC">Backend Core Service</a></b> — Scalable API and microservice architecture built with Python and Rust.
-        </li>
-        <li>
-          <b><a href="https://github.com/WVDYC">Game Engine Mechanics</a></b> — Gameplay systems, AI behaviors, and character controllers in C#.
-        </li>
-        <li>
-          <b><a href="https://github.com/WVDYC">Mobile & Web Client</a></b> — Cross-platform client application built with React & React Native.
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 > *“Code is never finished. It only becomes slightly less terrible over time.”*
 
