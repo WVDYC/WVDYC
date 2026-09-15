@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="./assets/banner_hands.jpg" width="100%" alt="Creation of Adam Header Banner" />
+
+  <br/><br/>
+
   <h1>Hi 👋, I'm Altemir</h1>
   
   <p><strong>Backend & GameDev Developer | CS Student</strong></p>
@@ -10,18 +14,17 @@
 
   <p>
     <a href="https://t.me/wvdyc">
-      <img src="https://img.shields.io/badge/Telegram-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+      <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     &nbsp;
     <a href="mailto:altemirzhilkibaev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
     <a href="https://github.com/WVDYC">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
-
 
 </div>
 
@@ -32,20 +35,21 @@
 <table>
   <tr>
     <td width="220" align="center" valign="middle">
-      <img src="./assets/chrollo.jpg" width="190" alt="Chrollo Lucilfer - Skill Hunter" style="border-radius: 10px;" />
+      <img src="./assets/chrollo.jpg" width="190" alt="Chrollo Lucilfer - Skill Hunter" />
     </td>
     <td valign="top">
 
-  **Hey there! I'm Altemir (`WVDYC`)**
+**Hey there! I'm Altemir (`WVDYC`)**
 
-  I'm a Computer Science student diving deep into **Backend Architecture** and **Game Development**.I enjoy exploring diverse paradigms — from low-level systems and high-throughput servers to immersive game mechanics.
+I'm a Computer Science student diving deep into **Backend Architecture** and **Game Development**. I enjoy exploring diverse paradigms — from low-level systems and high-throughput servers to immersive game mechanics.
 
-  - ⚡ Crafting high-performance backends with **Python** & **Rust**
-  - 🎮 Designing game logic, physics, and gameplay mechanics in **C#** (Unity / Godot)
-  - 📱 Developing fluid cross-platform user interfaces with **React** & **React Native**
-  - 🔍 Fascinated by distributed systems, concurrency, and real-time networking
+- ⚡ Crafting high-performance backends with **Python** & **Rust**
+- 🎮 Designing game logic, physics, and gameplay mechanics in **C#** (Unity / Godot)
+- 📱 Developing fluid cross-platform user interfaces with **React** & **React Native**
+- 🔍 Fascinated by distributed systems, concurrency, and real-time networking
 
-  > *«The calendar loses its precious components. The remaining months gather to mourn...»*
+
+</td>
   </tr>
 </table>
 
@@ -61,23 +65,7 @@
 
 ---
 
-
-
 > *“Code is never finished. It only becomes slightly less terrible over time.”*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/WVDYC">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WVDYC&theme=tokyonight&background=0D1117&border=30363D&stroke=FFFFFF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/WVDYC">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WVDYC&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
-</div>
 
 ---
 
