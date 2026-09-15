@@ -22,12 +22,6 @@
     </a>
   </p>
 
-  <p>
-    <a href="#-about-me">About Me</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-top-projects">Top Projects</a> •
-    <a href="#-github-stats">GitHub Stats</a>
-  </p>
 
 </div>
 
