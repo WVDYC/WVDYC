@@ -42,7 +42,7 @@
 **Hey there! I'm Altemir (`WVDYC`)**
 
 I'm high-school student diving deep into **Backend Architecture** and **Game Development**. I enjoy exploring diverse paradigms — from low-level systems and high-throughput servers to immersive game mechanics.
-
+---
 </td>
   </tr>
 </table>
