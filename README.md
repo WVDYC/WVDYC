@@ -41,13 +41,7 @@
 
 **Hey there! I'm Altemir (`WVDYC`)**
 
-I'm a Computer Science student diving deep into **Backend Architecture** and **Game Development**. I enjoy exploring diverse paradigms — from low-level systems and high-throughput servers to immersive game mechanics.
-
-- ⚡ Crafting high-performance backends with **Python** & **Rust**
-- 🎮 Designing game logic, physics, and gameplay mechanics in **C#** (Unity / Godot)
-- 📱 Developing fluid cross-platform user interfaces with **React** & **React Native**
-- 🔍 Fascinated by distributed systems, concurrency, and real-time networking
-
+I'm high-school student diving deep into **Backend Architecture** and **Game Development**. I enjoy exploring diverse paradigms — from low-level systems and high-throughput servers to immersive game mechanics.
 
 </td>
   </tr>
