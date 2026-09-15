@@ -44,7 +44,7 @@
 
   **Hey there! I'm Altemir (`WVDYC`)**
 
-  I'm a Computer Science student diving deep into **Backend Architecture** and **Game Development**. Much like Chrollo Lucilfer mastering multiple Nen techniques with *Skill Hunter*, I enjoy exploring diverse paradigms — from low-level systems and high-throughput servers to immersive game mechanics.
+  I'm a Computer Science student diving deep into **Backend Architecture** and **Game Development**.I enjoy exploring diverse paradigms — from low-level systems and high-throughput servers to immersive game mechanics.
 
   - ⚡ Crafting high-performance backends with **Python** & **Rust**
   - 🎮 Designing game logic, physics, and gameplay mechanics in **C#** (Unity / Godot)
