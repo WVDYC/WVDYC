@@ -1,12 +1,17 @@
-```console
-root@wvdyc:~# ./fetch_profile.sh
-[+] Establishing secure connection... OK
-[+] Bypassing mainframe... OK
+*Фишка:* Использование блока кода ` ```console ` окрашивает текст так, чтобы он выглядел как настоящий ввод командной строки. 
 
-user:       WVDYC
-status:     Building engines & hacking hardware
-languages:  [Rust, C#, Python, C]
-weapons:    [Neovim, Flipper, Docker]
+### 2. ASCII-арт и Ретро-минимализм
+ASCII-графика — классика хакерской эстетики. Ты можешь сгенерировать свое имя или логотип с помощью текстовых символов. Это отлично сочетается с TUI-интерфейсами.
 
-root@wvdyc:~# cat current_mission.txt
-> Compiling raw ideas into optimized binaries...
+**Пример реализации:**
+```markdown
+<div align="center">
+<pre>
+  _      __   _   __   ___     __  __   ____ 
+ | | /| / /  | | / /  / _ \    \ \/ /  / __/ 
+ | |/ |/ /   | |/ /  / // /     \  /  / /__  
+ |__/|__/    |___/  /____/      /_/   \___/  
+                                             
+</pre>
+  <p><b>// SYSTEM INITIALIZED // 2D PHYSICS ENGINES & CRYPTOGRAPHY //</b></p>
+</div>
