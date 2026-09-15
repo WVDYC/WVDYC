@@ -6,7 +6,7 @@
 
   <h1>Hi 👋, I'm Altemir</h1>
   
-  <p><strong>Backend & GameDev Developer |</strong></p>
+  <p><strong>|Backend & GameDev Developer|</strong></p>
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Systems+%26+Game+Development;Python+%7C+Rust+%7C+C%23+%7C+React+%7C+React+Native;Stealing+skills+like+Chrollo+Lucilfer;Building+scalable+backends+%26+interactive+worlds" alt="Typing SVG" />
