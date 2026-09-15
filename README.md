@@ -1,17 +1,9 @@
-*Фишка:* Использование блока кода ` ```console ` окрашивает текст так, чтобы он выглядел как настоящий ввод командной строки. 
-
-### 2. ASCII-арт и Ретро-минимализм
-ASCII-графика — классика хакерской эстетики. Ты можешь сгенерировать свое имя или логотип с помощью текстовых символов. Это отлично сочетается с TUI-интерфейсами.
-
-**Пример реализации:**
-```markdown
 <div align="center">
-<pre>
-  _      __   _   __   ___     __  __   ____ 
- | | /| / /  | | / /  / _ \    \ \/ /  / __/ 
- | |/ |/ /   | |/ /  / // /     \  /  / /__  
- |__/|__/    |___/  /____/      /_/   \___/  
-                                             
-</pre>
-  <p><b>// SYSTEM INITIALIZED // 2D PHYSICS ENGINES & CRYPTOGRAPHY //</b></p>
+  <img src="[https://i.pinimg.com/originals/a0/62/7f/a0627f1225330364e03f56ce85cc3cf7.gif](https://i.pinimg.com/originals/a0/62/7f/a0627f1225330364e03f56ce85cc3cf7.gif)" width="300" />
+  
+  ### ✦ Сomputational Architect & Developer ✦
+  
+  <p align="center">
+    <i>"Translating coffee and abstract math into executable realities."</i>
+  </p>
 </div>
